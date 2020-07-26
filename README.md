@@ -1,2 +1,4 @@
 # Voice_To_Pianonotes_Converter
-This is my first repository. I  made this code for a term project (which our professor denied to even see because I used one 'inbuilt' function. Anyway here it is.
+This is my first repository.
+Here, I have created a program which quantifies the frequency range and gives a synthesised output of notes.
+It gives an accurate result which has been tested on several vocal and instrumental inputs.
