@@ -2,3 +2,5 @@
 This is my first repository.
 Here, I have created a program which quantifies the frequency range and gives a synthesised output of notes.
 It gives an accurate result which has been tested on several vocal and instrumental inputs.
+
+More information can be found in my report on the project.
